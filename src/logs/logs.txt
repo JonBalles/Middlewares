@@ -1,0 +1,10 @@
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /users/register
+El usuario ingresó a la ruta: /products
+El usuario ingresó a la ruta: /products/detail
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /users/login
+El usuario ingresó a la ruta: /admin?admin=Tim
+El usuario ingresó a la ruta: /users/login
+El usuario ingresó a la ruta: /admin?admin=Jon
+El usuario ingresó a la ruta: /erroradmin
